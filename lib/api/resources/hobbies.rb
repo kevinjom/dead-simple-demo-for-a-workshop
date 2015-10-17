@@ -14,5 +14,11 @@ class Hobbies < Grape::API
       Files.append(line)
       "\nHave a good day, #{params[:name]}\n"
     end
+
+
+    desc 'get hobbies'
+    get '' do
+      Files.hobbies
+    end
   end
 end

@@ -55,6 +55,3 @@ PLATFORMS
 DEPENDENCIES
   byebug
   grape
-
-BUNDLED WITH
-   1.10.6
