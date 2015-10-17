@@ -12,7 +12,7 @@ class Hobbies < Grape::API
     put '' do
       line="#{params['name']}, #{params['sex']}, #{params['hobby']}"
       Files.append(line)
-      "\nHave a good day, #{params[:name]}\n#{Files.resp}"
+      "\nHave a good day, #{params[:name]}\n"
     end
   end
 end
