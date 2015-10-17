@@ -10,7 +10,7 @@ class Hobbies < Grape::API
       requires :name, :sex, :hobby
     end
     put '' do
-      line="#{params['name']}, #{params['sex']}, #{params['hobby']}"
+      line="#{params['name']} #{params['sex']} #{params['hobby']}"
       Files.append(line)
       "\nHave a good day, #{params[:name]}\n"
     end
