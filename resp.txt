@@ -1,0 +1,15 @@
+-----------------------------
+These are some resources for this workshop, check it out.
+
+SLIDE
+
+  Intorduction to Linux <http://slides.com/kevinjom/introduction-to-linux/live>
+
+REFERENCES
+
+  The Linux Command Line <http://billie66.github.io/TLCL/>
+  Ryans Tutorials for Linux <http://ryanstutorials.net/linuxtutorial/>
+  Sams teach yourself linux in 24 hours <http://introcomp.fisica.edu.uy/biblio/Shell%20Programming%20in%2024%20Hours.pdf>
+  Learn Vim Progressively <http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/>
+
+
